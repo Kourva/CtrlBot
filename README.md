@@ -39,7 +39,7 @@ Open `setting.py` with any editor you like and edit these sections:
 34 # Support or sponsor group ID
 35 GROUP: str = "@Sponsor group username"
 ```
-> This option is disabled by default. you need to enable it (See **ForceJoin** section below)
+> This option is disabled by default. you need to enable it (See [**WIKI**](https://github.com/Kourva/CtrlBot/wiki) section below)
 + **Support**: All errors will be sent to the admin of bot, set the ID of admin or yourself:
 ```python
 37 # Chat-ID of support admin to send errors 
