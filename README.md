@@ -58,3 +58,6 @@ Now we are ready to launch our bot:
 ```python
 python main.py
 ```
+
+# Want to learn more?
+Visit **[Wiki](https://github.com/Kourva/CtrlBot/wiki)** page for more details.
