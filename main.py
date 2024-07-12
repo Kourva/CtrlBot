@@ -5,9 +5,9 @@
 # │                       CTRL Guard Bot                      │
 # │        << Powerful Group Guard bot for Telegram >>        │
 # ╰┬──────────────────────────────────────────────────────────╯
-#  ┴ Author : Kourva       https://github.com/Kourva         ◈
-#  │ Source : CtrlBot      https://github.com/kourva/CtrlBot ┬
-#  ┬ Website: CtrlBot      https://kourva.github.io/CtrlBot  │
+#  ┴ Author : kozyol       https://github.com/kozyol         ◈
+#  │ Source : CtrlBot      https://github.com/kozyol/CtrlBot ┬
+#  ┬ Website: CtrlBot      https://kozyol.github.io/CtrlBot  │
 #  │ Group  : GroupCtrl    https://t.me/GroupCtrl            │
 #  ╰─────────────────────────────────────────────────────────╯
 
