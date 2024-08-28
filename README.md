@@ -1,5 +1,5 @@
 <div>
-    <img align="left" src="https://github.com/kozyol/CtrlBot/assets/118578799/406e0dba-c5f4-486d-b7a4-9b586e009a38" width=140 />
+    <img align="left" src="https://github.com/Kourva/CtrlBot/assets/118578799/406e0dba-c5f4-486d-b7a4-9b586e009a38" width=140 />
     <h3 align="center">CtrlBot</h3> 
     <p align="center">Rich feature group guard bot for Telegram groups &amp; supergroups</p>
 </div>
@@ -15,7 +15,7 @@ First of all, you need to install few thing on your machine
 + `Git`: You need git to clone this repository. (this is **optional**: you can download ziped source file)
 1. **Clone the repository**
 ```bash
-git clone https://github.com/kozyol/CtrlBot
+git clone https://github.com/Kourva/CtrlBot
 ```
 2. **Navigate to source directory**
 ```bash
@@ -39,7 +39,7 @@ Open `setting.py` with any editor you like and edit these sections:
 34 # Support or sponsor group ID
 35 GROUP: str = "@Sponsor group username"
 ```
-> This option is disabled by default. you need to enable it (See [**WIKI**](https://github.com/kozyol/CtrlBot/wiki) section below)
+> This option is disabled by default. you need to enable it (See [**WIKI**](https://github.com/Kourva/CtrlBot/wiki) section below)
 + **Support**: All errors will be sent to the admin of bot, set the ID of admin or yourself:
 ```python
 37 # Chat-ID of support admin to send errors 
@@ -60,4 +60,4 @@ python main.py
 ```
 
 # Want to know more?
-Visit **[Wiki](https://github.com/kozyol/CtrlBot/wiki)** page for more details.
+Visit **[Wiki](https://github.com/Kourva/CtrlBot/wiki)** page for more details.
